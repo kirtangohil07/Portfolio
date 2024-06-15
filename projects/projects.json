@@ -1,0 +1,55 @@
+[
+  
+  
+  {
+    "name": "Graph Visualizer",
+    "desc": "Developed a feature-rich web application for visualizing graphs and running complex algorithms like BFS, DFS and Dijkstra’s .",
+    "image": "instagrammern1",
+    "category": "mern",
+    "links": {
+      "view": "https://graph-visualiser-git-main-kirtans-projects-85746a71.vercel.app/",
+      "code": "https://github.com/kirtangohil07/Graph_visualiser"
+    }
+  },
+  {
+    "name": "Password Generator App",
+    "desc": "Developed a secure password generator application with configurable criteria for creating passwords of varying lengths and complexity.",
+    "image": "password",
+    "category": "mern",
+    "links": {
+      "view": "https://password-generator-xi-swart.vercel.app/",
+      "code": "https://github.com/kirtangohil07/Password_generator"
+    }
+  },
+  {
+    "name": "Movie Recommender System",
+    "desc": "Developed a movie recommender system using machine learning algorithms to suggest movies based on the user's choice .",
+    "image": "movie",
+    "category": "lamp",
+    "links": {
+      "view": "https://movierecommender-gzhyd9bdewy8guxgks4eue.streamlit.app/",
+      "code": "https://github.com/kirtangohil07/movie_recommender"
+    }
+  },
+  {
+    "name": "Food-Lab",
+    "desc": " Food-Lab is a comprehensive online platform designed to connect food lovers with a wide variety of dining options.",
+    "image": "foodlab",
+    "category": "mern",
+    "links": {
+      "view": "https://food-lab-rouge.vercel.app/index.html",
+      "code": "https://github.com/kirtangohil07/Food_Lab/tree/main"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfoliokirtan",
+    "category": "mern",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+
+]
